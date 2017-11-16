@@ -704,6 +704,7 @@ footer {
 }
 .fntsize {
     font-size:20px;
+    font-style:italic;
 }
 .centeralign {
     text-align: center;
@@ -711,6 +712,13 @@ footer {
     font-size:30px;
     color:#f00058;
 	font-family: 'Aguafina Script';
+}
+.centeralignsum {
+     text-align: center;
+    font-weight:bold;
+    font-size:30px;
+    color:#f00058;
+	font-family: 'Bilbo Swash Caps';
 }
 .italics {
      text-align: center;
