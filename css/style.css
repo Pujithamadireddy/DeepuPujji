@@ -159,7 +159,7 @@ p {
 /*********************************header*************************************/
 header {
 	width:100%;
-	background:#fff;
+	background:#FFF0F2;
 	position:relative;
 	z-index:2;
 }
@@ -264,7 +264,7 @@ h1 em {
 #content {
 	width:100%;
 	padding:35px 0 53px;
-	background:#fff;
+	background:#FFF0F2;
 	position:relative;
 	z-index:1;
 }
